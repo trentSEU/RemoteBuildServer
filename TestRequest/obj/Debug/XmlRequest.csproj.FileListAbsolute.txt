@@ -1,0 +1,21 @@
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\obj\Debug\XmlRequest.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\obj\Debug\XmlRequest.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll.config
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll
+C:\Users\trent\Desktop\buildServerPro2\TestRequest\obj\Debug\SMA-ProjectTemplate1.dll
+C:\Users\trent\source\repos\SMADemo3\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll.config
+C:\Users\trent\source\repos\SMADemo3\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll
+C:\Users\trent\source\repos\SMADemo3\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\trent\source\repos\SMADemo3\TestRequest\obj\Debug\XmlRequest.csprojResolveAssemblyReference.cache
+C:\Users\trent\source\repos\SMADemo3\TestRequest\obj\Debug\XmlRequest.csproj.CoreCompileInputs.cache
+C:\Users\trent\source\repos\SMADemo3\TestRequest\obj\Debug\SMA-ProjectTemplate1.dll
+C:\Users\trent\source\repos\SMADemo3\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\bin\Debug\SMA-ProjectTemplate1.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\obj\Debug\XmlRequest.csprojResolveAssemblyReference.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\obj\Debug\XmlRequest.csproj.CoreCompileInputs.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\obj\Debug\SMA-ProjectTemplate1.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb

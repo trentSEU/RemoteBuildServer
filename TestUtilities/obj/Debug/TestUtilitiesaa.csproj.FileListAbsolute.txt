@@ -1,0 +1,10 @@
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\TestUtilities.dll.config
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\TestUtilities.dll
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\IService.dll
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\IService.pdb
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\bin\Debug\IService.dll.config
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\obj\Debug\TestUtilitiesaa.csprojResolveAssemblyReference.cache
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\obj\Debug\TestUtilitiesaa.csproj.CoreCompileInputs.cache
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\obj\Debug\TestUtilities.dll
+C:\Users\trent\source\repos\SMADemo3\TestUtilities\obj\Debug\TestUtilities.pdb
