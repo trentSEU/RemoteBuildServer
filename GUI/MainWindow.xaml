@@ -1,0 +1,80 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Remote Build Server" Height="700" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition MinHeight="200" />
+            <RowDefinition Height="60" />
+            <RowDefinition MinHeight="200" />
+            <RowDefinition Height="100" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="25"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Row ="0" Grid.Column="0" Orientation="Horizontal" Margin="0,0,0,0">
+                <TextBlock Height="23" Margin="40,40,0,0" Name="textBlock1" Text="Menu" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Normal" />
+                <Button Click="GetTopMenu" Margin="10,30,0,0" Height="23" Width="75" Name="ButtonTop">Top</Button>
+            </StackPanel>
+            <TextBlock Grid.Row="0" Grid.Column="2" Height="23" Margin="30,40,0,0" Name="textBlock3" Text="Files" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Normal" />
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Row="1" Grid.Column="0" Name="Menu" Margin="40,10,40,10" MouseDoubleClick="Menu_MouseDoubleClick"></ListBox>
+            <ListBox Grid.Row="1" Grid.Column="2" Name="Files" Margin="40,10,40,10" MouseDoubleClick="Files_MouseDoubleClick"></ListBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="25"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="2" Grid.Column="2" Height="23" Margin="40,40,0,0" Name="textBlock4" Text="Output" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Normal" />
+            <StackPanel Grid.Row ="2" Grid.Column="0" Orientation="Horizontal" Margin="0,0,0,0">
+                <TextBlock Height="23" Margin="40,40,0,0" Name="textBlock2" Text="SlctedFiles" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Normal" />
+                <Button Click="ClearSelectedFiles" Margin="10,34,0,3" Width="50" Name="ButtonClear">Clear</Button>
+                <Button Click="BuildXml" Margin="10,30,0,0" Height="23" Width="50" Name="ButtonBuildXml">BuildXml</Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+                <ColumnDefinition Width="25"></ColumnDefinition>
+                <ColumnDefinition Width="250"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Row="0" Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="52*"/>
+                    <ColumnDefinition Width="199*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition MinHeight="60" />
+                </Grid.RowDefinitions>
+                <ListBox Grid.Row="0" Name="SelectedFiles" Margin="40,5,40,5" Grid.ColumnSpan="2"></ListBox>
+                <TextBlock Grid.Row="1" Height="23" Margin="40,20,0,0" Name="textBlock5" Text="XML" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontStyle="Normal" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+                <ListBox Grid.Row="2" Name="xmlFiles" Margin="40,5,40,4.5" Grid.ColumnSpan="2" MouseDoubleClick="XML_MouseDoubleClick"></ListBox>
+            </Grid>
+            <ListBox Grid.Row="3" Grid.Column="2" Name="output" Margin="40,10,40,10"></ListBox>
+        </Grid>
+        <StackPanel Grid.Row ="4" Orientation="Horizontal" Margin="0,0,0,27">
+            <TextBox Text="between 0-20, default 1" Margin ="30,25,10,25" Height="23" Width ="152" Name ="textbox1" MouseEnter="textbox1_MouseEnter" />
+            <Button Click="StartProcess" Margin="10,20,10,20" Height="23" Width="75" Name="ButtonStart">Start</Button>
+            <Button Click="BuildFile" Margin="10,20,10,20" Height="23" Width="75" Name="ButtonBuild" >Build-Test</Button>
+            <Button Click="closeBuilder" Margin="10,20,10,20" Height="23" Width="75" Name="ButtonClose">Close</Button>
+        </StackPanel>
+    </Grid>
+</Window>

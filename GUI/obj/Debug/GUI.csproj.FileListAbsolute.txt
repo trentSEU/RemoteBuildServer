@@ -1,0 +1,57 @@
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\GUI.exe.config
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\GUI.exe
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\GUI.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\BlockingQueue.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\IService.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\PluggableCommService.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\TestUtilities.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\BlockingQueue.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\BlockingQueue.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\IService.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\IService.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\PluggableCommService.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\PluggableCommService.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\bin\Debug\TestUtilities.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\App.g.cs
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\MainWindow.baml
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.g.resources
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.exe
+C:\Users\trent\Desktop\Yuan Liu-project3\GUI\obj\Debug\GUI.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\GUI.exe.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\GUI.exe
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\GUI.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\BlockingQueue.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\IService.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\PluggableCommService.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\SMA-ProjectTemplate1.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\TestUtilities.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\BlockingQueue.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\BlockingQueue.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\IService.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\IService.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\PluggableCommService.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\PluggableCommService.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\SMA-ProjectTemplate1.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\TestUtilities.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\bin\Debug\TestUtilities.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\App.g.cs
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\MainWindow.baml
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.g.resources
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.exe
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\GUI\obj\Debug\GUI.pdb

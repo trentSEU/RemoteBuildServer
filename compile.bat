@@ -1,0 +1,1 @@
+devenv SMADemo4.sln /rebuild debug

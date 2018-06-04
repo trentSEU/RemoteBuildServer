@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Request>
+  <size>2</size>
+  <dir>test3</dir>
+  <file>App.config</file>
+  <file>test3.csproj</file>
+</Request>
