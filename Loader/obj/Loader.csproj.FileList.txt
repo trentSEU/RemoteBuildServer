@@ -1,0 +1,5 @@
+..\Tester\bin\Debug\Loader\Loader.dll
+..\Tester\bin\Debug\Loader\Loader.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Loader.dll
+obj\Debug\Loader.pdb
