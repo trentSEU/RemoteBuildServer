@@ -1,0 +1,9 @@
+obj\Debug\Tester.exe
+obj\Debug\Tester.pdb
+bin\Debug\Tester.exe
+bin\Debug\Tester.pdb
+bin\Debug\ITest.dll
+bin\Debug\Loader.dll
+bin\Debug\Loader.pdb
+bin\Debug\ITest.pdb
+obj\Debug\ResolveAssemblyReference.cache

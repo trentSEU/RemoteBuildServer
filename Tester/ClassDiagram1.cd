@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9.75" />
+  <Class Name="TestHarness.Tester">
+    <Position X="1.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Tester.cs</FileName>
+      <HashCode>AAAAAAAAIQAgAAAAAAAAAACAAAAAAAAAAAAQFAAiBAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestHarness.Loader">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="TestHarness.ITest">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+</ClassDiagram>
