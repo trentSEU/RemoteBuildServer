@@ -1,0 +1,14 @@
+TestResults
+
+
+  Running Tests in TestDomain
+
+ -----------------------------
+
+  Loaded: test2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+
+  Exception has been thrown by the target of an invocation.
+
+  test failed
+
+  Loaded: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089

@@ -1,0 +1,67 @@
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Repo.dll.config
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Repo.dll
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Repo.pdb
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Environment.dll
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\MsgPassing.dll
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Environment.pdb
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\Environment.dll.config
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\MsgPassing.pdb
+C:\Users\trent\Desktop\buildServerPro21\Repo\bin\Debug\MsgPassing.dll.config
+C:\Users\trent\Desktop\buildServerPro21\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\buildServerPro21\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\buildServerPro21\Repo\obj\Debug\Repo.dll
+C:\Users\trent\Desktop\buildServerPro21\Repo\obj\Debug\Repo.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Repo.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Environment.dll
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\MsgPassing.dll
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Environment.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Environment.dll.config
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\MsgPassing.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\MsgPassing.dll.config
+C:\Users\trent\Desktop\buildServerPro2\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\buildServerPro2\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\buildServerPro2\Repo\obj\Debug\Repo.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Repo.dll.config
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\Repo.dll
+C:\Users\trent\Desktop\buildServerPro2\Repo\obj\Debug\Repo.dll
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\SMA-ProjectTemplate1.dll
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\trent\Desktop\buildServerPro2\Repo\bin\Debug\SMA-ProjectTemplate1.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\Repo.exe.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\Repo.exe
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\Repo.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\BlockingQueue.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\IService.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\PluggableCommService.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\TestUtilities.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\BlockingQueue.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\BlockingQueue.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\IService.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\IService.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\PluggableCommService.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\PluggableCommService.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\TestUtilities.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\bin\Debug\TestUtilities.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\obj\Debug\Repo.exe
+C:\Users\trent\Desktop\Yuan Liu-project3\Repo\obj\Debug\Repo.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\Repo.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\BlockingQueue.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\IService.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\PluggableCommService.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\TestUtilities.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\BlockingQueue.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\BlockingQueue.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\IService.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\IService.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\PluggableCommService.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\PluggableCommService.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\TestUtilities.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\TestUtilities.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\obj\Debug\Repo.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\Repo.exe.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\bin\Debug\Repo.exe
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\Repo\obj\Debug\Repo.exe

@@ -1,0 +1,25 @@
+ *   NOTE:
+ *   ----
+ *   In order to test the function with the GUI manually, please set the GUI as 
+ *   the start up project.
+ *   In order to test the function automatically, please set the GUI as
+ *   start up project and set the command line arguments as test.
+
+ *   GUI Operations:
+ *   --------------
+ *   The GUI package implements the GUI for the project.
+ *   -Select the menu by double click the menu name in the Menu listbox.
+ *   -Click the Top button to back to the root directory.
+ *   -Select the files for building by double click the file name in the
+ *    files listbox, selected files would listed in the selected files listbox.
+ *   -Click the Clear button to clear the seleted files and reselect.
+ *   -Click the BuildXml button to build the xml file. 
+ *   -Input the number of process to start in the textbox, the number should
+ *    between 0 and 20, by default, the number is 1.
+ *   -Click the start button to start the specific number of process, if there
+ *    is no valid input in the textbox, the GUI would start 1 child process by
+ *    default.
+ *   -Double click the Xml file name listed in the Xml listbox to build it.
+ *   -Click the Build-Test button to start building and testing(if build success)  
+ *    the project, the result would be printed in the console.
+ *   -Click the close button to close all of the processes.
