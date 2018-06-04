@@ -1,0 +1,14 @@
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\bin\Debug\BlockingQueue.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\obj\Debug\BlockingQueue.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\obj\Debug\BlockingQueue.dll
+C:\Users\trent\Desktop\Yuan Liu-project3\BlockingQueue\obj\Debug\BlockingQueue.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\bin\Debug\BlockingQueue.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\obj\Debug\BlockingQueue.csproj.CoreCompileInputs.cache
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\obj\Debug\BlockingQueue.dll
+C:\Users\Yuan Liu\Desktop\681\yliu219 project#4\Yuan Liu-project4\BlockingQueue\obj\Debug\BlockingQueue.pdb
