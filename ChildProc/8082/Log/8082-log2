@@ -1,0 +1,23 @@
+Build started 12/6/2017 11:28:25 PM.
+__________________________________________________
+Project "C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml2\test3.csproj" (Rebuild target(s)):
+
+Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+Target CoreClean:
+    Creating directory "obj\Any CPU\Debug\".
+Target GenerateTargetFrameworkMonikerAttribute:
+  Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+Target CoreCompile:
+    C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Net.Http.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.Linq.dll" /debug+ /filealign:512 /out:"obj\Any CPU\Debug\test2.dll" /subsystemversion:6.00 /target:library /utf8output Program.cs "C:\Users\trent\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs"
+    CSC : error CS2001: Source file 'Program.cs' could not be found
+Done building target "CoreCompile" in project "test3.csproj" -- FAILED.
+
+Done building project "test3.csproj" -- FAILED.
+
+Build FAILED.
+
+CSC : error CS2001: Source file 'Program.cs' could not be found
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.14

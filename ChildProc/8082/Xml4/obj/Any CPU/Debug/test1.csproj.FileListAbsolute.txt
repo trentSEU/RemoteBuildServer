@@ -1,0 +1,5 @@
+C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml4\test1.dll.config
+C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml4\obj\Any CPU\Debug\test1.dll
+C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml4\obj\Any CPU\Debug\test1.pdb
+C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml4\test1.dll
+C:\Users\trent\Desktop\Yuan Liu-project4\ChildProc\8082\Xml4\test1.pdb
